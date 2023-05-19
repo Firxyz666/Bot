@@ -1,0 +1,53 @@
+<!-- wp:group {"align":"full"} -->
+<div class="wp-block-group alignfull"><!-- wp:columns {"align":"full"} -->
+<div class="wp-block-columns alignfull"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:separator {"opacity":"css","className":"is-style-wide","backgroundColor":"foreground-dark"} -->
+<hr class="wp-block-separator has-text-color has-foreground-dark-color has-css-opacity has-foreground-dark-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":1,"className":"margin-bottom-half"} -->
+<h1 class="margin-bottom-half"><strong>Jane Doe</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"margin-top-half","fontSize":"small"} -->
+<p class="margin-top-half has-small-font-size">Ilustrator, Kartunis</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">Halo, saya Jane, dan jika Anda belum tahu, saya sangat suka menggambar! Saya bekerja di bidang seni visual selama lebih dari delapan tahun. Portofolio saya mencakup media cetak dan digital, pakaian, serta buku anak-anak. Terima kasih telah berkunjung!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":13,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="#"><img src="https://easleystartermobile.files.wordpress.com/2020/09/comp-1-sq.png?w=750" alt="" class="wp-image-13"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":15,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="#"><img src="https://easleystartermobile.files.wordpress.com/2020/09/comp-4-sq.png?w=750" alt="" class="wp-image-15"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"full"} -->
+<div class="wp-block-columns alignfull"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":14,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="#"><img src="https://easleystartermobile.files.wordpress.com/2020/09/comp-7-sq.png?w=750" alt="" class="wp-image-14"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":9,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="#"><img src="https://easleystartermobile.files.wordpress.com/2020/09/comp-3-sq.png?w=750" alt="" class="wp-image-9"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":11,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="#"><img src="https://easleystartermobile.files.wordpress.com/2020/09/comp-2-sq.png?w=750" alt="" class="wp-image-11"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
